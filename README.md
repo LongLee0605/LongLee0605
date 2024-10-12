@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Gorilla Desk](https://gorilladesk.com/)
 
-- 🌱 I’m currently learning ** the program about ReactJS/NextJS**
+- 🌱 I’m currently learning **the program about ReactJS/NextJS**
 
 - 👯 I have worked on it before [Gleads](https://gleads.vn/vi)
 
