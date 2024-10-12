@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Gorilla Desk](https://gorilladesk.com/)
 
-- 🌱 I’m currently learning **I’m currently learning the program about ReactJS/NextJS**
+- 🌱 I’m currently learning ** the program about ReactJS/NextJS**
 
 - 👯 I have worked on it before [Gleads](https://gleads.vn/vi)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [trandanglong.vercel.app](trandanglong.vercel.app)
 
-- 💬 Ask me about **Ask me about the knowledge I know such as ReactJS/NextJS, Javascript, PHP**
+- 💬 Ask me about **the knowledge I know such as ReactJS/NextJS, Javascript, PHP**
 
 - 📫 How to reach me **letrandanglong.0605@gmail.com**
 
