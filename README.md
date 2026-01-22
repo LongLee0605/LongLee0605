@@ -10,7 +10,7 @@
 
 - 🤝 I used to help with work here [BBCIncorp](https://bbcincorp.com/hk)
 
-- 👨‍💻 All of my projects are available at [trandanglong.vercel.app](trandanglong.vercel.app)
+- 👨‍💻 All of my projects are available at [trandanglong.vercel.app](letrandanglong.vercel.app)
 
 - 💬 Ask me about **the knowledge I know such as ReactJS/NextJS, Javascript, PHP**
 
